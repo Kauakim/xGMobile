@@ -32,9 +32,16 @@ Participaram desta etapa 23 estudantes dos cursos de Engenharia de Telecomunica�
 
 ### Etapa 2 — Pesquisa Avançada (15 meses)
 
-Os participantes com melhor desempenho avançam para a etapa de pesquisa, recebendo bolsas de iniciação científica e acesso total à infraestrutura laboratorial do xGMobile.
+Após a conclusão da etapa de nivelamento, o programa evolui para uma fase de formação voltada à pesquisa aplicada, na qual os participantes passam a desenvolver projetos orientados por pesquisadores do Inatel, utilizando a infraestrutura do xGMobile e recebendo bolsas de iniciação científica para atuar em atividades de Pesquisa, Desenvolvimento e Inovação (PD&I).
 
-Nesta fase, os alunos passam a atuar em projetos de pesquisa orientados por professores e pesquisadores do Inatel, desenvolvendo competências técnicas e científicas alinhadas aos desafios das redes móveis de próxima geração e domínio de ferramentas e maturidade acadêmica para ingressar diretamente no mestrado.
+Apesar de inicialmente destinada aos 15 alunos com melhor desempenho, esta etapa passou a contar com todos os 19 participantes que concluíram a fase anterior, em reconhecimento ao excelente desempenho de todos. A partir deste momento, a formação torna-se mais aprofundada e passa a enfatizar pesquisa, desenvolvimento tecnológico e preparação para futuras atividades acadêmicas e profissionais.
+
+Nesta etapa, o programa deixa de ter foco em nivelamento e passa a oferecer uma formação estruturada em trilhas de capacitação, voltadas às principais áreas de atuação do xGMobile:
+
+- **Núcleo Comum**: Sinais, Probabilidade, Redes de Computadores e Processamento Digital de Sinais (DSP);
+- **Núcleo Transversal**: Fundamentos de Redes 5G/6G e Inteligência Artificial/Machine Learning;
+- **Núcleo Intermediário**: Comunicações Digitais, Redes de Computadores, - Virtualização de Redes e Segurança;
+- **Núcleo Específico**: Trilhas de pesquisa alinhadas às áreas estratégicas do xGMobile, com desenvolvimento de projetos orientados por pesquisadores do Centro.
 
 📰 [Notícia sobre o PFT](https://inatel.br/noticias/inatel-lanca-programa-que-antecipa-a-formacao-em-pesquisa-em-redes-moveis-para-alunos-de-graduacao)
 
